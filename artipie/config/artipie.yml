@@ -1,0 +1,5 @@
+meta:
+  storage:
+    type: fs
+    path: /var/artipie/repo #path to repository configurations
+  layout: flat
